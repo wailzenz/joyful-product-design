@@ -1,0 +1,39 @@
+{
+  "_note": "Worlds already shipped with this skill. A new project must differ from each on at least 4 axes, one of them palette or type, and must not reuse a family or action colour listed here. Add yours when you finish.",
+  "worlds": [
+    {
+      "id": "toy-planet",
+      "product": "AI sales agent that researches businesses and writes each one a letter",
+      "world": "a bright toy world of businesses, and letters on their way to them",
+      "year": 2026,
+      "hero": "webgl",
+      "palette": "pastel-fields",
+      "type": "rounded-sans",
+      "family": "Rubik",
+      "shape": "soft-plates",
+      "characters": "round-faces",
+      "motion": "springy",
+      "layout": "colour-bands",
+      "texture": "flat",
+      "colours": { "ink": "#17153b", "action": "#2b59ff", "accent": "#ffd23f", "fields": ["#c6e4ff", "#a6ecd0"] },
+      "notes": "Its first hero was a globe and was rejected for that; the planet idea is retired."
+    },
+    {
+      "id": "morning-round",
+      "product": "AI agent that finds jobs, tailors the CV and cover letter to each, and applies",
+      "world": "the morning round: a wheel of postings turns while you sleep; at breakfast a short stack, each sheet stamped",
+      "year": 2026,
+      "hero": "dom-3d",
+      "palette": "pastel-fields",
+      "type": "humanist-sans",
+      "family": "Figtree",
+      "shape": "soft-plates",
+      "characters": "round-faces",
+      "motion": "springy",
+      "layout": "colour-bands",
+      "texture": "flat",
+      "colours": { "ink": "#10302a", "action": "#0b7d4f", "accent": "#ff8a4c", "fields": ["#ffd9bf", "#ddd2ff"] },
+      "notes": "Only 2 axes differ from toy-planet: the reason the difference rule exists. Do not add a third world in this family."
+    }
+  ]
+}
