@@ -15,7 +15,15 @@
       "motion": "springy",
       "layout": "colour-bands",
       "texture": "flat",
-      "colours": { "ink": "#17153b", "action": "#2b59ff", "accent": "#ffd23f", "fields": ["#c6e4ff", "#a6ecd0"] },
+      "colours": {
+        "ink": "#17153b",
+        "action": "#2b59ff",
+        "accent": "#ffd23f",
+        "fields": [
+          "#c6e4ff",
+          "#a6ecd0"
+        ]
+      },
       "notes": "Its first hero was a globe and was rejected for that; the planet idea is retired."
     },
     {
@@ -32,8 +40,41 @@
       "motion": "springy",
       "layout": "colour-bands",
       "texture": "flat",
-      "colours": { "ink": "#10302a", "action": "#0b7d4f", "accent": "#ff8a4c", "fields": ["#ffd9bf", "#ddd2ff"] },
+      "colours": {
+        "ink": "#10302a",
+        "action": "#0b7d4f",
+        "accent": "#ff8a4c",
+        "fields": [
+          "#ffd9bf",
+          "#ddd2ff"
+        ]
+      },
       "notes": "Only 2 axes differ from toy-planet: the reason the difference rule exists. Do not add a third world in this family."
+    },
+    {
+      "id": "clipping-desk",
+      "product": "Funding search for founders: reads programs' official pages, keeps each fact only with its word-for-word quote and date, checks eligibility against the founder",
+      "world": "the clipping desk: official pages land each morning, a highlighter finds the line that proves each fact, the fact is cut out, stamped and filed with its source in the margin",
+      "year": 2026,
+      "hero": "desk",
+      "palette": "paper-ink",
+      "type": "grotesk",
+      "family": "IBM Plex Sans Arabic",
+      "shape": "cutout",
+      "characters": "mascot",
+      "motion": "ink-draw",
+      "layout": "editorial",
+      "texture": "paper",
+      "colours": {
+        "ink": "#221a33",
+        "action": "#c2381c",
+        "accent": "#ffd84a",
+        "fields": [
+          "#f6f1e7",
+          "#221a33"
+        ]
+      },
+      "notes": "Mascot 'Slip' is the logo come to life (a paper slip with a highlighted line). People are seeded postage stamps. Owner rejected two drawn-face casts (ink line faces, then cut-paper collage faces): drawn human faces are retired for this owner. The previous FundVec hero was a globe (removed)."
     }
   ]
 }

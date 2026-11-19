@@ -31,6 +31,9 @@ copy of this file with their answers; their taste wins.
 - **Crowded pages**: too many objects per section.
 - **Brown or muddy tiles in dark mode** (a light tint mixed into a dark ground).
 - A dashboard that looks basic next to the homepage, or that breaks on a phone.
+- **Drawn human faces as the cast** (FundVec, 2026-11-19): ink line faces, then cut-paper
+  collage faces, were both rejected ("change them totally"). What worked: an object mascot from
+  the product's own world (the logo come alive) and people shown as objects (postage stamps).
 - **Two products that look alike.** The house approach is shared, the look must not be. This
   is why `worlds.json` and the direction step exist.
 
