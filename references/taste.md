@@ -42,3 +42,9 @@ copy of this file with their answers; their taste wins.
 No label or eyebrow above a heading, no gradient text, no monospace as decoration, no grid of
 identical cards as the page, no emoji as icons, no grey secondary text, no pure black ink,
 no `opacity` as the hover state (lift and shadow instead).
+
+## FundVec, 2026-11-20
+
+The paper "clipping desk" world, its mascot (Slip) and postage-stamp people were rejected outright:
+the owner wanted a clean, trustworthy SaaS look modelled on a named reference site. When a user names
+a reference, follow it; a whimsical illustrated world is not a safe default for a finance product.
